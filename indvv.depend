@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540152377 source:c:\users\dell\desktop\indvv\src\odometer.cpp
+	"odometer.h"
+	<iostream>
+
+1540151995 c:\users\dell\desktop\indvv\include\odometer.h
+
+1540151368 source:c:\users\dell\desktop\indvv\main.cpp
+	<iostream>
+	"odometer.h"
+
+1541086506 source:c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\20170093\odometer\main.cpp
+	<iostream>
+	"odometer.h"
+
+1541086119 c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\20170093\odometer\include\odometer.h
+
+1541086369 source:c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\20170093\odometer\src\odometer.cpp
+	"odometer.h"
+	<iostream>
+
